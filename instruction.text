@@ -1,0 +1,26 @@
+Service Table :
+1. Title
+2. Short Description
+3. Image
+4. Status
+5. Slug
+
+Portfolio Category :
+1. Name
+2. Slug
+3. Status
+
+Portfolio :
+1. Name
+2. Description
+3. Link
+4. Image Name
+5. Image Gallery
+6. Status
+7. soft-delete
+
+Team :
+1. Name
+2. Position
+3. Image
+4. Status
